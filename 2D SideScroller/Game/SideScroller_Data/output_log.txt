@@ -1,0 +1,44 @@
+Initialize engine version: 5.3.3f1 (910d71450a97)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce RTX 2070 SUPER (ID=0x1e84)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Github repositories\GameBuilds-Code\2D SideScroller\Game\SideScroller_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Github repositories\GameBuilds-Code\2D SideScroller\Game\SideScroller_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Github repositories\GameBuilds-Code\2D SideScroller\Game\SideScroller_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Github repositories\GameBuilds-Code\2D SideScroller\Game\SideScroller_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Github repositories\GameBuilds-Code\2D SideScroller\Game\SideScroller_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Github repositories\GameBuilds-Code\2D SideScroller\Game\SideScroller_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Github repositories\GameBuilds-Code\2D SideScroller\Game\SideScroller_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Github repositories\GameBuilds-Code\2D SideScroller\Game\SideScroller_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.209 seconds
+Platform assembly: D:\Github repositories\GameBuilds-Code\2D SideScroller\Game\SideScroller_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Github repositories\GameBuilds-Code\2D SideScroller\Game\SideScroller_Data\Managed\System.dll (this message is harmless)
+desktop: 3440x1440 144Hz; virtual: 7280x1440 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.415000 ms
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 245c -> priority: 1 
+  Thread -> id: a44 -> priority: 1 
+  Thread -> id: 4a00 -> priority: 1 
+The referenced script on this Behaviour (Game Object 'Missing Prefab (Dummy)') is missing!
+ 
+(Filename:  Line: 1655)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.120200 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2147.
+Total: 0.383100 ms (FindLiveObjects: 0.085100 ms CreateObjectMapping: 0.058500 ms MarkObjects: 0.217500 ms  DeleteObjects: 0.020900 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.900500 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1357.
+Total: 0.277600 ms (FindLiveObjects: 0.061100 ms CreateObjectMapping: 0.015500 ms MarkObjects: 0.189800 ms  DeleteObjects: 0.010500 ms)
+
